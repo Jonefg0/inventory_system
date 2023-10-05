@@ -1,0 +1,7 @@
+django-environ
+psycopg2
+django 
+django-ckeditor 
+Pillow 
+pylint 
+pylint-django
